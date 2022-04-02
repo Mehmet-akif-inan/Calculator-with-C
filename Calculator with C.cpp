@@ -23,8 +23,7 @@ if(i=='+'){
 d=b+c;
  
 printf("%d",d);
- 
-}
+ }
  
 else if(i=='-'){ d=b-c;
  
